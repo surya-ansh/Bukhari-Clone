@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Fruits & Vegetables Exporters in Pakistan | Bukhari Enterprises</title>
+        <title>Fruits & Vegetables Exporters in Pakistan | Om Shiv Packers & Movers</title>
         <meta
           name="description"
           content="Delivering quality products worldwide with reliability, precision, and trust."
@@ -31,14 +31,13 @@ const Home = () => {
         <div className="absolute inset-0 bg-[#000000a3] opacity-50"></div>
 
         <h1 className="text-2xl font-semibold mb-2 md:font-thin md:text-5xl z-10">
-          GLOBAL TRADE SPECIALISTS
+          
         </h1>
         <h1 className="text-5xl font-bold mb-5 md:text-8xl z-10">
-          BUKHARI ENTERPRISES
+          Bukhari Enterprises
         </h1>
         <p className="text-[18px] text-white mb-5 md:text-[18px] z-10">
-          Delivering quality products worldwide with reliability, precision, and
-          trust.
+          Best in Service
         </p>
       </section>
       <About />
