@@ -91,16 +91,16 @@ const Footer = () => {
           <ul className="flex flex-col gap-3 text-[18px] transition-all duration-300">
             <li className="flex items-center gap-2">
               <img src={phone} alt="phone" className="w-9 h-9" />
-              <p className="text-[18px]">+92-3096375479</p>
+              <p className="text-[18px]">+91-XXXXXXXX</p>
             </li>
             <li className="flex items-center gap-2">
               <img src={email} alt="email" className="w-9 h-9" />
-              <p className="text-[18px]">bukhariandsons786@gmail.com</p>
+              <p className="text-[18px]">noreply@gmial.com</p>
             </li>
             <li className="flex items-center gap-2">
               <img src={shop} alt="shop" className="w-9 h-9" />
               <p className="text-[18px]">
-                X5W5+4P9, New Sabzi Mandi, Karachi, Pakistan.
+                ABC, New York
               </p>
             </li>
           </ul>
